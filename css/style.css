@@ -219,9 +219,13 @@ footer {
     margin-bottom: 1%;
     font-size: 24px;
     color: #000;
-    margin-left: 3%;
+    margin-left: 3%;    
 }
 
+a {
+    text-decoration: none;
+    color: black;
+}
 .email {
     margin-top: 1%;
 }
@@ -229,6 +233,10 @@ footer {
 
 #navbar ul li:hover {
     background-color: #ebaa39;
+}
+
+.social i:hover {
+    color: #ebaa39;
 }
 
 
